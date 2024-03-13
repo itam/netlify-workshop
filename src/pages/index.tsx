@@ -8,7 +8,7 @@ export default function Index() {
       <Nav title="Netlify Workshop" />
       <section className="flex columns">
         <div>
-          <h2>Rendering strategies</h2>
+          <h2>Rendering strategies - change</h2>
           <ul>
             <li>
               <Link href="/rendering-strategies/ssg">
@@ -58,7 +58,7 @@ export default function Index() {
               <Link href="/primitives/functions/streams">Streams</Link>
             </li>
           </ul>
-          <h3>Edge functions</h3>
+          <h3>Edge functions - change</h3>
           <ul>
             <li>
               <Link href="/primitives/edge-functions/ab-testing">
